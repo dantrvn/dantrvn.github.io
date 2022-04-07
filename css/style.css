@@ -151,6 +151,14 @@ img {
   margin: auto;
 }
 
+.link {
+  padding: 20px 0px 10px 10px;
+  text-align: center;
+  color: black;
+  font-size: 26px;
+  font-family: 'Poppins';
+}
+
 footer {
   margin-top: 44px;
 }
