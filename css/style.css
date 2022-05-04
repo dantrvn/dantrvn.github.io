@@ -70,7 +70,7 @@ img {
 .bio {
   color: #ffffff;
   font-size: 26px;
-  font-family: 'Expletus Sans', serif;
+  font-family: 'Nunito', serif;
 }
 
 .buttonBox {
@@ -88,6 +88,7 @@ img {
   padding: 16px 31px;
   text-decoration: none;
   margin: 1.69em auto;
+  font-family: 'Nunito', serif;
 }
 
 .myButton:hover {
@@ -105,7 +106,7 @@ img {
 }
 
 .description {
-  font-family: 'Expletus Sans', serif;
+  font-family: 'Nunito', serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.29;
@@ -134,7 +135,7 @@ a {
 
 footer div{
   height: 100%;
-  font-family: 'Expletus Sans', serif;
+  font-family: 'Nunito', serif;
   font-size: 18px;
   display: flex;
   align-content: center;
