@@ -136,7 +136,7 @@ footer div{
   height: 100%;
   font-family: 'Expletus Sans', serif;
   font-size: 18px;
-  display: inline-flex;
+  display: flex;
   align-content: center;
   justify-content: space-between;
   padding: 10px 20px;
